@@ -7,4 +7,5 @@ This automation is made with the following tools:
 * TestNG
 
 with a POM design pattern and PageFactory
+
 Test to run: amazonShopTest.java
